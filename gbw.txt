@@ -1,0 +1,10 @@
+CREATE TABLE `demo` (
+    `fname` varchar(191) NOT NULL,
+    `mail` varchar(191) NOT NULL,
+    `num` varchar(20) NOT NULL,
+    `odate` varchar(20) NOT NULL,
+    `ddate` varchar(20) NOT NULL,
+    `name` varchar(191) NOT NULL,
+    `phone` varchar(191) NOT NULL,
+  
+);
